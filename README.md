@@ -1,0 +1,1 @@
+# Gayatri Bal Vidya Mandir School - React Website (Ready)\n\nUpload these files to the root of your GitHub repo and the included GitHub Actions workflow will build & deploy to GitHub Pages.
